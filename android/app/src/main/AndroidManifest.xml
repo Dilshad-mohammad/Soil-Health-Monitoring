@@ -16,7 +16,7 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application
-        android:label="soil_health_monitoring"
+        android:label="SoilHealth Monitor"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
